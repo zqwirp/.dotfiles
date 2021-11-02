@@ -1,0 +1,4 @@
+bind-key h quit
+bind-key k up
+bind-key j down
+bind-key l open
